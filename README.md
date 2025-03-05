@@ -6,7 +6,7 @@ This project provides utilities for finetuning TabPFN models on custom datasets 
 
 1. Clone this repository
 2. Make sure TabPFN is available at `../TabPFN` relative to this project
-
+``
 ```bash
 poetry install
 ```
